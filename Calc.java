@@ -10,7 +10,7 @@ public static int prod(int a,int b){
 }
 public static void main(String []args){
      System.out.println(add(10,20));
-    System.out.println(add(50,40));
-    System.out.println(add(20,20));
+    System.out.println(sub(50,40));
+    System.out.println(prod(20,20));
 }
 }
